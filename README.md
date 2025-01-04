@@ -54,10 +54,8 @@ This app is suitable for anyone looking to build secure password entry fields fo
    - Modify the design or validation logic effortlessly to suit specific requirements.  
 
 ---
+![icons8-validation-64](https://github.com/user-attachments/assets/75011f17-6f3d-4dbd-bdf4-31b9cdb94279)
 
-## 🔗 Live Demo  
-
-Experience the application live [here](#) *(Add a link after hosting)*.  
 
 ---
 
